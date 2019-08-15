@@ -2,36 +2,46 @@
 
 Content :
 
-# Project Objective
-# Software Requirements
-# Individual Contributions
-# End Users
-# Future Enhancements
-# What We Learnt
+Project Objective
+Software Requirements
+Individual Contributions
+End Users
+Future Enhancements
+What We Learnt
 
-PROJECT OBJECTIVE: 
+# PROJECT OBJECTIVE: 
 
-# To develop an interacting android application for:
-# Simplying the food ordering mechanism.
-# To make it easy for customers to order food from home in a convenient way.
-# Making the food ordering system online which is easy for the restaurants and customers for interaction as a medium.
-# Customers to order food from a digital menu.
-# Creating options of different restaurants, food items and categories for users to chose from.
-# Easy to use for customers.
+(1) To develop an interacting android application for
 
-SOFTWARE REQUIREMENTS:
+(2) Simplying the food ordering mechanism.
 
-# Android version 2.2 and higher versions.
-# Standard Development Kit (SDK)
-# Eclipse, JDK
+(3) To make it easy for customers to order food from home in a convenient way.
 
-Permissions: 
+(4) Making the food ordering system online which is easy for the restaurants and customers for interaction as a medium.
 
-# INTERNET
-# ACCESS_NETWORK_STATE
-# WAKE_LOCK
+(5) Customers to order food from a digital menu.
 
-INDIVIDUAL CONTRIBUTIONS :
+(6) Creating options of different restaurants, food items and categories for users to chose from.
+
+(7) Easy to use for customers.
+
+# SOFTWARE REQUIREMENTS:
+
+Android version 2.2 and higher versions.
+
+Standard Development Kit (SDK)
+
+Eclipse, JDK
+
+# Permissions: 
+
+INTERNET
+
+ACCESS_NETWORK_STATE
+
+WAKE_LOCK
+
+# INDIVIDUAL CONTRIBUTIONS :
 
 # MANI GOYAL (Roll Number 1628108)
 
