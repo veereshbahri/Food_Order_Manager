@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Food_Ordering_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nandan Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6d3e0876b8eb8bc6073db73b69e865f0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2088",
+                        "endColumns": "100",
+                        "endOffsets": "2184"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nandan Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7f0920ee38574a54c6385747887b2259\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,1816",
+                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,1892"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,2007",
+                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,2083"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nandan Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.1.aar\\33b6293eda50ab1e353619eac4a1aa35\\res\\values-lo\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1816",
+                        "endColumns": "190",
+                        "endOffsets": "2002"
+                    }
+                }
+            ]
+        }
+    ]
+}
