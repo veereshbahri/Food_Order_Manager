@@ -2,12 +2,12 @@
 
 Content :
 
-Project Objective
-Software Requirements
-Individual Contributions
-End Users
-Future Enhancements
-What We Learnt
+Project Objective, 
+Software Requirements, 
+Individual Contributions, 
+End Users, 
+Future Enhancements, 
+What We Learnt, 
 
 # PROJECT OBJECTIVE: 
 
@@ -27,19 +27,19 @@ What We Learnt
 
 # SOFTWARE REQUIREMENTS:
 
-Android version 2.2 and higher versions.
+Android version 2.2 and higher versions, 
 
-Standard Development Kit (SDK)
+Standard Development Kit (SDK), 
 
 Eclipse, JDK
 
 # Permissions: 
 
-INTERNET
+INTERNET, 
 
-ACCESS_NETWORK_STATE
+ACCESS_NETWORK_STATE, 
 
-WAKE_LOCK
+WAKE_LOCK, 
 
 # INDIVIDUAL CONTRIBUTIONS :
 
