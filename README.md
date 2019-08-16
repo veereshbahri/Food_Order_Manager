@@ -76,7 +76,7 @@ Modules contributed:
 
 MainActivity.java
 SignIn.java
-Managing XML files(front end)
+
 
 # HARLEEN KAUR (Roll Number 1628054)
 
