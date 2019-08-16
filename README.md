@@ -2,12 +2,17 @@
 
 Content :
 
-Project Objective, 
-Software Requirements, 
-Individual Contributions, 
-End Users, 
-Future Enhancements, 
-What We Learnt, 
+(1) Project Objective, 
+
+(2) Software Requirements, 
+
+(3) Individual Contributions, 
+
+(4) End Users, 
+
+(5) Future Enhancements, 
+
+(6) What We Learnt, 
 
 # PROJECT OBJECTIVE: 
 
