@@ -1,6 +1,8 @@
 package com.example.hp.myapplication.Model;
 
 public class Category {
+    
+    //Variables : Name and Image
 
     private String Name;
     private String Image;
