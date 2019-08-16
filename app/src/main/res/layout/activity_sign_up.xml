@@ -24,6 +24,7 @@
             android:textSize="34sp"
             app:met_floatingLabel="highlight"
             app:met_maxCharacters="11"
+            app:met_minCharacters="11"                                             
             app:met_primaryColor="@android:color/white"
             app:met_singleLineEllipsis="true" />
 
@@ -49,6 +50,7 @@
             android:textSize="34sp"
             app:met_floatingLabel="highlight"
             app:met_maxCharacters="11"
+            app:met_minCharacters="11"
             app:met_primaryColor="@android:color/white"
             app:met_singleLineEllipsis="true" />
 
