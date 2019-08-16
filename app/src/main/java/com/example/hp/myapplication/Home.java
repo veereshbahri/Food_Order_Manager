@@ -1,3 +1,4 @@
+//Contributor : Mani Goyal
 package com.example.hp.myapplication;
 
 import android.content.Context;
@@ -93,13 +94,10 @@ public class Home extends AppCompatActivity
             protected void populateViewHolder(MenuViewHolder viewHolder, Category model, int position) {
                 viewHolder.txtMenuName.setText(model.getName());
                 Picasso.get().load(model.getImage()).into(viewHolder.imageView);
-               //Glide.with(getBaseContext()).load(model.getImage()).into(viewHolder.imageView);
-
-               final Category clickItem = model;
+          
                 viewHolder.setItemClickListener(new ItemClickListener() {
                     @Override
                     public void onClick(View view, int position, boolean isLongClick) {
-                        //Toast.makeText(Home.this, ""+clickItem.getName(), Toast.LENGTH_SHORT).show();
                         Intent foodlist = new Intent(Home.this,FoodList.class);
                         foodlist.putExtra("CategoryId",adapter.getRef(position).getKey());
                         startActivity(foodlist);
@@ -140,7 +138,6 @@ public class Home extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_menu) {
-            // Handle the camera action
         } else if (id == R.id.nav_cart) {
             Intent cart = new Intent(Home.this, Cart.class);
             startActivity(cart);
