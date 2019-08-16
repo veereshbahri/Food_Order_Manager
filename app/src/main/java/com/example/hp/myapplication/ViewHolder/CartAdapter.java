@@ -1,6 +1,6 @@
+// Author Mehar
+
 package com.example.hp.myapplication.ViewHolder;
-
-
 import android.content.Context;
 import android.graphics.Color;
 import android.media.Image;
