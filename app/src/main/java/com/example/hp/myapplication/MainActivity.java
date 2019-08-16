@@ -1,3 +1,5 @@
+//Author: Veeresh Raj Bahri
+
 package com.example.hp.myapplication;
 
 import android.content.Intent;
@@ -19,26 +21,26 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnSignUp = (Button) findViewById(R.id.btnSignUp);
-        btnSignIn = (Button)findViewById(R.id.btnSignIn);
+        btnSignUp = (Button) findViewById(R.id.btnSignUp);                           //Button for Sign Up
+        btnSignIn = (Button)findViewById(R.id.btnSignIn);                           //Button for Sign In
 
-        slogan = (TextView)findViewById(R.id.slogan);
+        slogan = (TextView)findViewById(R.id.slogan);                              //For the text slogan
 
         Typeface face = Typeface.createFromAsset(getAssets(),"Fonts/NABILA.TTF");
         slogan.setTypeface(face);
 
-        btnSignIn.setOnClickListener(new View.OnClickListener() {
+        btnSignIn.setOnClickListener(new View.OnClickListener() {            // Click Listener is attached here to the button
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this,SignIn.class);
+                Intent i = new Intent(MainActivity.this,SignIn.class);        // SignIn Activity opens here
                 startActivity(i);
             }
         });
 
-        btnSignUp.setOnClickListener(new View.OnClickListener() {
+        btnSignUp.setOnClickListener(new View.OnClickListener() {             // Click Listener is attached here to the button
             @Override
             public void onClick(View v) {
-            Intent SignUp = new Intent(MainActivity.this, SignUp.class);
+            Intent SignUp = new Intent(MainActivity.this, SignUp.class);     // SignUp activity opens here
             startActivity(SignUp);
             }
         });
